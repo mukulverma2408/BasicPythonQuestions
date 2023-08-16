@@ -4,5 +4,21 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.8 (ImportingData)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="DataCamp" />
+    <orderEntry type="module" module-name="CleaningDataInPython" />
+    <orderEntry type="module" module-name="Compare_BarChart" />
+    <orderEntry type="module" module-name="DateTimeObjects" />
+    <orderEntry type="module" module-name="ImportingData" />
+    <orderEntry type="module" module-name="ListComprehension" />
+    <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="pythonProject1" />
+    <orderEntry type="module" module-name="pythonProject2" />
+    <orderEntry type="module" module-name="pythonProject3" />
+    <orderEntry type="module" module-name="ScikitlearnProject" />
+    <orderEntry type="module" module-name="Seaborn" />
+    <orderEntry type="module" module-name="Share_Plots" />
+    <orderEntry type="module" module-name="UCDAssement" />
+    <orderEntry type="module" module-name="UCDProjectSubmission" />
+    <orderEntry type="module" module-name="W3ResourceExercise" />
   </component>
 </module>
