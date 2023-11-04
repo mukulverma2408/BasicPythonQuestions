@@ -5,8 +5,8 @@ def swapelement(lst, var1, var2):
     return lst
 
 lst = [1,5,2,6,8,10,45,34,98]
-var1 = int(input("Enter First element"))
-var2 = int(input("Enter element that need to be swapped"))
+var1 = int(input("Enter First element "))
+var2 = int(input("Enter element that need to be swapped "))
 print("Inital List : ", lst)
 print("List after swap is")
 print(swapelement(lst, var1, var2))
